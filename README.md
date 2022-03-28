@@ -1,0 +1,3 @@
+# Udacity Computer Vision Nanodegree Facial Keypoint Detection
+
+- This project is about defining and training a convolutional neural network in PyTorch to perform facial keypoint detection, and using computer vision techniques to transform images of faces. Facial keypoints (also called facial landmarks) mark important areas of the face: the eyes, corners of the mouth, the nose, etc. These keypoints are relevant for a variety of tasks, such as face filters, emotion recognition, pose recognition, and so on.
